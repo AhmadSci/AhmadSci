@@ -2,7 +2,7 @@
 <h1 align="center">Hello, I'm Ahmed Gamal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&color=7BF7CA&lines=Computer+Science+Student;Critical+Thinker;Always+eager+to+learn+new+things;Quick+Learner"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Red+Hat+Display&color=7BF7CA&lines=Computer+Science+Student;Critical+Thinker;Always+eager+to+learn+new+things;Quick+Learner&center=true&width=380&height=50">
 </p>
 
 - :school: I am a `Sophomore` at Faculty of Science Alexandria University.
