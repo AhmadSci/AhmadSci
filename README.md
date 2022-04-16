@@ -14,7 +14,7 @@
 
 <p align="center">
   <img width="420" height="165"src="https://github-readme-stats.vercel.app/api?username=AhmadSci&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadSci&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" width="420" height="165">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSci&layout=compact&langs_count=8&theme=github_dark&hide=GAP,GLSL,PureBasic" width="420" height="165">
 </p>
 
 ### 🏆 Github trophies
