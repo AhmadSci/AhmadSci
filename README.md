@@ -21,7 +21,7 @@
 
 ### 🏆 Repos i'm most proud of
 
-<a href="[https://github.com/AhmadSci/Mood-Adventure](https://github.com/AhmadSci/Adventure-Time-Mobile-Game)">
+<a href="https://github.com/AhmadSci/Adventure-Time-Mobile-Game">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadSci&repo=Adventure-Time-Mobile-Game&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
 </a>
 
@@ -43,7 +43,18 @@
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
 
-<p align="left"> <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40"/> </a> <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JS" height="40"/> </a> <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/> </a> <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" height="40"/> </a> <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40"/> </a> <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="40"/> </a> <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="40"/> </a> </p>
+<p align="left"> 
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40"/> </a> 
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="40"/> </a> 
+ <a href="#-languages-and-tools"> <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript.svg" alt="JS" height="40"/> </a> 
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="40"/> </a> 
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="40"/> </a>
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/> </a> 
+ <a href="#-languages-and-tools"> <img src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/c-cpp.svg" alt="CPP" height="40"/> </a> 
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" height="40"/> </a> 
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40"/> </a>
+</p>
+ 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadSci&exclude_repo=dotfiles&hide_title=true&hide=html,css&layout=compact&bg_color=22272E&text_color=2FBD90&hide_border=true" alt="React" height="120"/> </img>
 <br />
