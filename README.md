@@ -44,12 +44,13 @@
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
 
 <p align="left"> 
- <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="40"/> </a> 
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" height="40"/> </a> 
  <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" height="40"/> </a> 
  <a href="#-languages-and-tools"> <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/javascript/javascript.svg" alt="JS" height="40"/> </a> 
  <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" height="40"/> </a> 
- <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="40"/> </a>
- <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="40"/> </a> 
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="Dart" height="40"/> </a>
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter" height="40"/> </a>
+ <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="40"/> </a> 
  <a href="#-languages-and-tools"> <img src="https://raw.githubusercontent.com/actions/starter-workflows/main/icons/c-cpp.svg" alt="CPP" height="40"/> </a> 
  <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" height="40"/> </a> 
  <a href="#-languages-and-tools"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" height="40"/> </a>
