@@ -35,11 +35,15 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadSci&repo=FXGym-Javafx&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
 </a>
 
-<a href="https://github.com/AhmadSci/Django-Social-Media-WebApp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadSci&repo=Django-Social-Media-WebApp&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
+<a href="https://github.com/AhmadSci/Auctions-Django-Web-Application">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadSci&repo=Auctions-Django-Web-Application&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
 </a>
 
 <br>
+
+<a href="https://github.com/AhmadSci/Django-Social-Media-WebApp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmadSci&repo=Django-Social-Media-WebApp&bg_color=22272E&text_color=2FBD90&hide_border=true" width="380">
+</a>
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
 
