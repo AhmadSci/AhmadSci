@@ -7,7 +7,7 @@
   
 </p>
 
-- :school: I am a `Sophomore` at Faculty of Science Alexandria University.
+- :school: I am a `Senior` at Faculty of Science Alexandria University.
 
 ## My Stats 
 
